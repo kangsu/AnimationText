@@ -4,6 +4,7 @@ using System.Collections;
 public class ProfessorWalk : MonoBehaviour {
 
 	private Animator animator;
+    private Vector2 speed = new Vector2(50, 50);
 	
 	// Use this for initialization
 	void Start()
@@ -27,6 +28,26 @@ public class ProfessorWalk : MonoBehaviour {
 			}
 		}
 	}
+
+    void FixedUpdate()
+    {
+        if (Input.GetKey(KeyCode.UpArrow))
+        {
+            rigidbody2D.velocity = new Vector2(0, -10);
+        }
+        else if (Input.GetKey(KeyCode.DownArrow))
+        {
+            rigidbody2D.velocity = new Vector2(0, 10);
+        }
+        else if (Input.GetKey(KeyCode.RightArrow))
+        {
+            rigidbody2D.velocity = new Vector2(10, 0);
+        }
+        else if (Input.GetKey(KeyCode.LeftArrow))
+        {
+            rigidbody2D.velocity = new Vector2(-10, 0);
+        }
+    }
 
 
 }
