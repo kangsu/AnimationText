@@ -1,0 +1,30 @@
+﻿<xapCache source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\AnimationText\Bin\x86\Debug\AnimationText_Debug_x86.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="4/13/2014 10:13:11 AM">
+  <file source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\AnimationText\obj\x86\Debug\AnimationText.dll" archivePath="AnimationText.dll" lastWriteTime="4/13/2014 10:13:05 AM" />
+  <file source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\AnimationText\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="1/6/2014 8:31:44 AM" />
+  <file source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\AnimationText\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="1/6/2014 8:31:44 AM" />
+  <file source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\AnimationText\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="1/6/2014 8:31:44 AM" />
+  <file source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\AnimationText\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="1/6/2014 8:31:44 AM" />
+  <file source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\AnimationText\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="1/6/2014 8:31:44 AM" />
+  <file source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\AnimationText\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="1/6/2014 8:31:44 AM" />
+  <file source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\AnimationText\Data\mainData" archivePath="Data\mainData" lastWriteTime="4/13/2014 10:11:55 AM" />
+  <file source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\AnimationText\Data\managedAssemblies.txt" archivePath="Data\managedAssemblies.txt" lastWriteTime="4/13/2014 10:12:02 AM" />
+  <file source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\AnimationText\Data\PlayerConnectionConfigFile" archivePath="Data\PlayerConnectionConfigFile" lastWriteTime="4/13/2014 10:11:55 AM" />
+  <file source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\AnimationText\Data\Resources\unity default resources" archivePath="Data\Resources\unity default resources" lastWriteTime="1/12/2014 3:10:28 AM" />
+  <file source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\AnimationText\Data\Resources\unity_builtin_extra" archivePath="Data\Resources\unity_builtin_extra" lastWriteTime="4/13/2014 10:11:55 AM" />
+  <file source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\AnimationText\Data\sharedassets0.assets" archivePath="Data\sharedassets0.assets" lastWriteTime="4/13/2014 10:11:55 AM" />
+  <file source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\AnimationText\Bin\x86\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="4/13/2014 10:13:06 AM" />
+  <file source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\AnimationText\Bin\x86\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="1/6/2014 8:31:44 AM" />
+  <file source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\AnimationText\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="1/6/2014 8:31:44 AM" />
+  <file source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\AnimationText\Assembly-CSharp.dll" archivePath="Assembly-CSharp.dll" lastWriteTime="4/13/2014 10:12:02 AM" />
+  <file source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\Players\x86\Release\BridgeInterface.winmd" archivePath="BridgeInterface.winmd" lastWriteTime="1/22/2014 5:11:44 PM" />
+  <file source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\AnimationText\UnityEngine.dll" archivePath="UnityEngine.dll" lastWriteTime="4/13/2014 10:11:59 AM" />
+  <file source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\Players\x86\Release\UnityEngineDelegates.winmd" archivePath="UnityEngineDelegates.winmd" lastWriteTime="1/22/2014 5:11:46 PM" />
+  <file source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\Players\x86\Release\UnityEngineProxy.dll" archivePath="UnityEngineProxy.dll" lastWriteTime="1/22/2014 5:11:48 PM" />
+  <file source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\Players\x86\Release\UnityPlayer.winmd" archivePath="UnityPlayer.winmd" lastWriteTime="1/22/2014 5:18:32 PM" />
+  <file source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\Players\x86\Release\WinRTBridge.dll" archivePath="WinRTBridge.dll" lastWriteTime="1/22/2014 5:11:48 PM" />
+  <file source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\AnimationText\WinRTLegacy.dll" archivePath="WinRTLegacy.dll" lastWriteTime="4/13/2014 10:12:01 AM" />
+  <file source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\Players\x86\Release\BridgeInterface.dll" archivePath="BridgeInterface.dll" lastWriteTime="1/22/2014 5:11:44 PM" />
+  <file source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\Players\x86\Release\UnityEngineDelegates.dll" archivePath="UnityEngineDelegates.dll" lastWriteTime="1/22/2014 5:11:46 PM" />
+  <file source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\Players\x86\Release\UnityPlayer.dll" archivePath="UnityPlayer.dll" lastWriteTime="1/22/2014 5:19:00 PM" />
+  <file source="C:\Users\kagatlin\Documents\AnimationText\PhoneProject\AnimationText\Bin\x86\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="4/13/2014 10:13:07 AM" />
+</xapCache>

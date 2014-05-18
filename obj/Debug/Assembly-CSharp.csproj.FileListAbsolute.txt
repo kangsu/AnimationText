@@ -1,0 +1,11 @@
+C:\Users\kagatlin\Documents\AnimationText\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\kagatlin\Documents\AnimationText\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\kagatlin\Documents\AnimationText\Temp\bin\Debug\UnityEditor.dll
+C:\Users\kagatlin\Documents\AnimationText\Temp\bin\Debug\UnityEngine.dll
+C:\Users\kagatlin\Documents\AnimationText\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\kagatlin\Documents\AnimationText\Temp\bin\Debug\nunit.framework.dll
+C:\Users\kagatlin\Documents\AnimationText\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\kagatlin\Documents\AnimationText\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\kagatlin\Documents\AnimationText\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\kagatlin\Documents\AnimationText\obj\Debug\Assembly-CSharp.dll
+C:\Users\kagatlin\Documents\AnimationText\obj\Debug\Assembly-CSharp.pdb

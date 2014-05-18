@@ -11,7 +11,7 @@ Platform assembly: C:\Users\kagatlin\Documents\AnimationText\AnimationText_Data\
 Loading C:\Users\kagatlin\Documents\AnimationText\AnimationText_Data\Managed\UnityEngine.dll into Unity Child Domain
 Platform assembly: C:\Users\kagatlin\Documents\AnimationText\AnimationText_Data\Managed\Assembly-CSharp.dll (this message is harmless)
 Loading C:\Users\kagatlin\Documents\AnimationText\AnimationText_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-- Completed reload, in  0.272 seconds
+- Completed reload, in  0.116 seconds
 desktop: 1600x900 50Hz; virtual: 1600x900 at 0,0
 <RI> Initializing input.
 XInput1_3.dll not found.
